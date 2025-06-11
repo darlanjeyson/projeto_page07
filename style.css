@@ -112,3 +112,16 @@ trackAndTrace {
     color:white;
     border: none;
 }
+
+#requestAfreeQuote{
+    margin-top: 8vh;
+    width: 100vw;
+    height: 50vh;
+    background-color: rgb (206, 205, 205);
+}
+
+#freeQuoteContainers{
+    display: flex;
+    width: 100vw;
+    
+}
